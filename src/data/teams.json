@@ -1,0 +1,65 @@
+[
+    {
+        "teams": [
+            {
+                "name": "G2",
+                "region": "NA",
+                "kickoff-placement": "1",
+                "players": [
+                    {
+                        "nickname": "valyn",
+                        "name": "Jacob Batio",
+                        "agents": [
+                            "astra",
+                            "brimstone",
+                            "omen"
+                        ],
+                        "IGL": "true",
+                        "role": "Smokes"
+                    },
+                    {
+                        "nickname": "jawgemo",
+                        "name": "Alexander Mor",
+                        "agents": [
+                            "yoru",
+                            "raze"
+                        ],
+                        "IGL": "false",
+                        "role": "Duelist"
+                    },
+                    {
+                        "nickname": "JonahP",
+                        "name": "Jonah Pulice",
+                        "agents": [
+                            "breach",
+                            "vyse"
+                        ],
+                        "IGL": "false",
+                        "role": "Flex"
+                    },
+                    {
+                        "nickname": "leaf",
+                        "name": "Nathan Orf",
+                        "agents": [
+                            "chamber",
+                            "vyse",
+                            "viper"
+                        ],
+                        "IGL": "false",
+                        "role": "Flex"
+                    },
+                    {
+                        "nickname": "trent",
+                        "name": "Trent Cairns",
+                        "agents": [
+                            "sova",
+                            "tejo"
+                        ],
+                        "IGL": "false",
+                        "role": "Initiator"
+                    }
+                ]
+            }
+        ]
+    }
+]
