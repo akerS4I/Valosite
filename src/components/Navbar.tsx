@@ -4,7 +4,7 @@ const Navbar = () => {
   return (
     <nav>
       <div className="container">
-        <img src="public\Valorant_logo_cropped.png" alt="" />
+        <img src="/Valorant_logo_cropped.png" alt="" />
         <a className="title" href="/">
           Valosite
         </a>
