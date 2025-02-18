@@ -1,0 +1,44 @@
+nav {
+  width: 99%;
+  height: 60px;
+  padding: 30px;
+  margin: 10px auto;
+  border-radius: 10px;
+
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+  border: 1px solid #444444;
+
+  .container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+
+    .title {
+      text-decoration: none;
+      font-size: 30px;
+    }
+    img {
+      width: 30px;
+    }
+  }
+
+  .links {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 30px;
+    a {
+      text-decoration: none;
+      font-size: 18px;
+
+      transition: all 0.1s;
+      &:hover {
+        transform: scale(1.1);
+      }
+    }
+  }
+}

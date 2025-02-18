@@ -1,11 +1,28 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+@font-face {
+  font-family: "Thernaly";
+  src: url("/public/fonts/Thernaly-Regular.ttf");
+  font-style: normal;
+  font-weight: normal;
+}
+@font-face {
+  font-family: "Non-Buraeu";
+  src: url("/public/fonts/NonBureau-Medium.otf");
+  font-style: normal;
+  font-weight: normal;
+}
+
 :root {
-  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
-  line-height: 1.5;
-  font-weight: 400;
+  font-family: Non-Buraeu;
 
   color-scheme: light dark;
-  color: rgba(255, 255, 255, 0.87);
-  background-color: #242424;
+  color: hsl(0 0% 98%);
+  background-color: hsl(240 10% 3.9%);
 
   font-synthesis: none;
   text-rendering: optimizeLegibility;
