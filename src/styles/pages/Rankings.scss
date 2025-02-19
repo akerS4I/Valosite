@@ -1,0 +1,106 @@
+.rankings-page {
+  max-width: 4000px;
+  margin: auto;
+  padding: 20px 40px;
+  text-align: center;
+  color: white; // High contrast on dark background
+
+  h1 {
+    margin-bottom: 20px;
+  }
+}
+
+.region-links {
+  display: flex;
+  justify-content: center;
+  gap: 15px;
+  margin-bottom: 20px;
+
+  a {
+    text-decoration: none;
+    padding: 8px 16px;
+    border-radius: 5px;
+    font-weight: bold;
+    border: 2px solid transparent;
+    transition: all 0.2s ease-in-out;
+    color: white;
+
+    &:hover {
+      border: 2px solid hsl(0 0% 98%);
+    }
+
+    &.active {
+      background: hsl(0 0% 98%);
+      color: black;
+    }
+  }
+}
+
+.rankings-container {
+  display: flex;
+  flex-direction: column; // Ensures list layout instead of grid
+  gap: 20px;
+  justify-content: center;
+}
+
+.team-card {
+  width: 100%;
+  max-width: 4000px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border: 2px solid white;
+  border-radius: 12px;
+  padding: 20px;
+  transition: 0.3s ease-in-out;
+
+  &:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 6px 12px rgba(255, 255, 255, 0.2);
+  }
+}
+
+.team-info {
+  display: flex;
+  align-items: center;
+  gap: 15px;
+  text-align: left;
+}
+
+.team-logo {
+  width: 60px;
+  height: 60px;
+  padding: 10px;
+  border-radius: 20px;
+  object-fit: cover;
+  border: 2px solid white;
+  background-color: rgba(255, 255, 255, 0.125);
+}
+
+.team-country {
+  font-size: 14px;
+  color: white;
+  opacity: 0.8;
+}
+
+.team-record,
+.team-earnings {
+  font-size: 14px;
+  margin-top: 5px;
+  opacity: 0.9;
+}
+
+.last-match {
+  text-align: center;
+}
+
+.last-match-logo {
+  width: 40px;
+  height: 40px;
+  padding: 1px;
+  border-radius: 10px;
+  object-fit: cover;
+  margin: 5px 0;
+  border: 2px solid white;
+  background-color: rgba(255, 255, 255, 0.125);
+}

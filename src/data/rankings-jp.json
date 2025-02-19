@@ -1,0 +1,323 @@
+{
+    "data": [
+        {
+            "rank": "1",
+            "team": "RIDDLE ORDER",
+            "country": "Japan",
+            "last_played": "1d ago",
+            "last_played_team": "vs. REJECT",
+            "last_played_team_logo": "//owcdn.net/img/62a4139de7f7e.png",
+            "record": "25–3",
+            "earnings": "$22,920",
+            "logo": "//owcdn.net/img/6569a81625295.png"
+        },
+        {
+            "rank": "2",
+            "team": "ZETA DIVISION",
+            "country": "Japan",
+            "last_played": "24d ago",
+            "last_played_team": "vs. Paper Rex",
+            "last_played_team_logo": "//owcdn.net/img/62bbeba74d5cb.png",
+            "record": "15–11",
+            "earnings": "$42,268",
+            "logo": "//owcdn.net/img/62a411783d94d.png"
+        },
+        {
+            "rank": "3",
+            "team": "DetonatioN FocusMe",
+            "country": "Japan",
+            "last_played": "17d ago",
+            "last_played_team": "vs. Gen. G",
+            "last_played_team_logo": "//owcdn.net/img/654cc858ea9f5.png",
+            "record": "8–7",
+            "earnings": "$0",
+            "logo": "//owcdn.net/img/63972e548cdc9.png"
+        },
+        {
+            "rank": "4",
+            "team": "NOEZ FOXX",
+            "country": "Japan",
+            "last_played": "2d ago",
+            "last_played_team": "vs. REJECT",
+            "last_played_team_logo": "//owcdn.net/img/62a4139de7f7e.png",
+            "record": "13–4",
+            "earnings": "$0",
+            "logo": "//owcdn.net/img/65717b5a27b9f.png"
+        },
+        {
+            "rank": "5",
+            "team": "REJECT",
+            "country": "Japan",
+            "last_played": "1d ago",
+            "last_played_team": "vs. RIDDLE ORDER",
+            "last_played_team_logo": "//owcdn.net/img/6569a81625295.png",
+            "record": "12–6",
+            "earnings": "$0",
+            "logo": "//owcdn.net/img/62a4139de7f7e.png"
+        },
+        {
+            "rank": "6",
+            "team": "Sengoku Gaming",
+            "country": "Japan",
+            "last_played": "4d ago",
+            "last_played_team": "vs. FENNEL",
+            "last_played_team_logo": "//owcdn.net/img/60d3986152cd4.png",
+            "record": "18–12",
+            "earnings": "$15,015",
+            "logo": "//owcdn.net/img/63bfebf0d4824.png"
+        },
+        {
+            "rank": "7",
+            "team": "FAV gaming",
+            "country": "Japan",
+            "last_played": "29d ago",
+            "last_played_team": "vs. FENNEL",
+            "last_played_team_logo": "//owcdn.net/img/60d3986152cd4.png",
+            "record": "9–9",
+            "earnings": "$24,254",
+            "logo": "//owcdn.net/img/623be8f0125f2.png"
+        },
+        {
+            "rank": "8",
+            "team": "SCARZ",
+            "country": "Japan",
+            "last_played": "4d ago",
+            "last_played_team": "vs. NOEZ FOXX",
+            "last_played_team_logo": "//owcdn.net/img/65717b5a27b9f.png",
+            "record": "5–2",
+            "earnings": "$0",
+            "logo": "//owcdn.net/img/60693f9ee7109.png"
+        },
+        {
+            "rank": "9",
+            "team": "FENNEL",
+            "country": "Japan",
+            "last_played": "3d ago",
+            "last_played_team": "vs. NOEZ FOXX",
+            "last_played_team_logo": "//owcdn.net/img/65717b5a27b9f.png",
+            "record": "6–3",
+            "earnings": "$0",
+            "logo": "//owcdn.net/img/60d3986152cd4.png"
+        },
+        {
+            "rank": "10",
+            "team": "BC SWELL",
+            "country": "Japan",
+            "last_played": "8d ago",
+            "last_played_team": "vs. Seng",
+            "last_played_team_logo": "//owcdn.net/img/63bfebf0d4824.png",
+            "record": "13–8",
+            "earnings": "$0",
+            "logo": "//owcdn.net/img/63a9cf9538384.png"
+        },
+        {
+            "rank": "11",
+            "team": "CREST GAMING Zst",
+            "country": "Japan",
+            "last_played": "5d ago",
+            "last_played_team": "vs. NOEZ FOXX",
+            "last_played_team_logo": "//owcdn.net/img/65717b5a27b9f.png",
+            "record": "16–10",
+            "earnings": "$10,863",
+            "logo": "//owcdn.net/img/63a33a790ae62.png"
+        },
+        {
+            "rank": "12",
+            "team": "Delight",
+            "country": "Japan",
+            "last_played": "33d ago",
+            "last_played_team": "vs. FAV gaming",
+            "last_played_team_logo": "//owcdn.net/img/623be8f0125f2.png",
+            "record": "9–8",
+            "earnings": "$0",
+            "logo": "//owcdn.net/img/6632780ca2eb8.png"
+        },
+        {
+            "rank": "13",
+            "team": "Murash Gaming",
+            "country": "Japan",
+            "last_played": "5d ago",
+            "last_played_team": "vs. Seng",
+            "last_played_team_logo": "//owcdn.net/img/63bfebf0d4824.png",
+            "record": "11–13",
+            "earnings": "$3,933",
+            "logo": "//owcdn.net/img/67933a8eeec46.png"
+        },
+        {
+            "rank": "14",
+            "team": "BLUE BEES.ESP",
+            "country": "Japan",
+            "last_played": "29d ago",
+            "last_played_team": "vs. Murash Gaming",
+            "last_played_team_logo": "//owcdn.net/img/67933a8eeec46.png",
+            "record": "9–7",
+            "earnings": "$0",
+            "logo": "//owcdn.net/img/62a4128bd26f3.png"
+        },
+        {
+            "rank": "15",
+            "team": "NORTHEPTION",
+            "country": "Japan",
+            "last_played": "29d ago",
+            "last_played_team": "vs. CREST GAMING Zst",
+            "last_played_team_logo": "//owcdn.net/img/63a33a790ae62.png",
+            "record": "3–2",
+            "earnings": "$0",
+            "logo": "//owcdn.net/img/649905216b9e3.png"
+        },
+        {
+            "rank": "16",
+            "team": "Citrus e-sports",
+            "country": "Japan",
+            "last_played": "392d ago",
+            "last_played_team": "vs. Father's Back",
+            "last_played_team_logo": "//owcdn.net/img/6632795dbd3cc.png",
+            "record": "0–0",
+            "earnings": "$0",
+            "logo": ""
+        },
+        {
+            "rank": "17",
+            "team": "Team SEIBI",
+            "country": "Japan",
+            "last_played": "80d ago",
+            "last_played_team": "vs. BC SWELL",
+            "last_played_team_logo": "//owcdn.net/img/63a9cf9538384.png",
+            "record": "4–5",
+            "earnings": "$0",
+            "logo": "//owcdn.net/img/672228c89f94b.png"
+        },
+        {
+            "rank": "18",
+            "team": "SOLAR ANTHEM",
+            "country": "South Korea",
+            "last_played": "399d ago",
+            "last_played_team": "vs. OLY",
+            "last_played_team_logo": "/img/vlr/tmp/vlr.png",
+            "record": "0–0",
+            "earnings": "$0",
+            "logo": "//owcdn.net/img/63e04b91e74e7.png"
+        },
+        {
+            "rank": "19",
+            "team": "IGZIST",
+            "country": "Japan",
+            "last_played": "13d ago",
+            "last_played_team": "vs. CREST GAMING Zst",
+            "last_played_team_logo": "//owcdn.net/img/63a33a790ae62.png",
+            "record": "11–14",
+            "earnings": "$675",
+            "logo": "//owcdn.net/img/61b3107a6a139.png"
+        },
+        {
+            "rank": "20",
+            "team": "REIGNITE",
+            "country": "Japan",
+            "last_played": "392d ago",
+            "last_played_team": "vs. NOEZ FOXX",
+            "last_played_team_logo": "//owcdn.net/img/65717b5a27b9f.png",
+            "record": "0–0",
+            "earnings": "$0",
+            "logo": "//owcdn.net/img/634006b15d271.png"
+        },
+        {
+            "rank": "21",
+            "team": "Acris",
+            "country": "Japan",
+            "last_played": "700d ago",
+            "last_played_team": "vs. BC SWELL",
+            "last_played_team_logo": "//owcdn.net/img/63a9cf9538384.png",
+            "record": "0–0",
+            "earnings": "$0",
+            "logo": ""
+        },
+        {
+            "rank": "22",
+            "team": "TeamDuration",
+            "country": "Japan",
+            "last_played": "700d ago",
+            "last_played_team": "vs. Taikai M",
+            "last_played_team_logo": "/img/vlr/tmp/vlr.png",
+            "record": "0–0",
+            "earnings": "$0",
+            "logo": ""
+        },
+        {
+            "rank": "23",
+            "team": "STRIDERZ",
+            "country": "Japan",
+            "last_played": "29d ago",
+            "last_played_team": "vs. BLUE BEES. ESP",
+            "last_played_team_logo": "//owcdn.net/img/62a4128bd26f3.png",
+            "record": "6–7",
+            "earnings": "$0",
+            "logo": "//owcdn.net/img/6633282e7e04c.png"
+        },
+        {
+            "rank": "24",
+            "team": "AXELERATE",
+            "country": "Japan",
+            "last_played": "33d ago",
+            "last_played_team": "vs. Arc",
+            "last_played_team_logo": "/img/vlr/tmp/vlr.png",
+            "record": "2–5",
+            "earnings": "$0",
+            "logo": "//owcdn.net/img/6720c01ea98c9.png"
+        },
+        {
+            "rank": "25",
+            "team": "HIT GAMING CLAN",
+            "country": "Japan",
+            "last_played": "292d ago",
+            "last_played_team": "vs. SPARKS",
+            "last_played_team_logo": "//owcdn.net/img/63bf6fd7524ff.png",
+            "record": "0–2",
+            "earnings": "$0",
+            "logo": "//owcdn.net/img/663278b3ec4b6.png"
+        },
+        {
+            "rank": "26",
+            "team": "PARON",
+            "country": "Japan",
+            "last_played": "33d ago",
+            "last_played_team": "vs. REVE RISE MAX",
+            "last_played_team_logo": "//owcdn.net/img/67309c6a965c0.png",
+            "record": "4–8",
+            "earnings": "$0",
+            "logo": ""
+        },
+        {
+            "rank": "27",
+            "team": "DragonGaming",
+            "country": "Japan",
+            "last_played": "33d ago",
+            "last_played_team": "vs. TRIDENT",
+            "last_played_team_logo": "//owcdn.net/img/620c506f1a646.png",
+            "record": "0–2",
+            "earnings": "$0",
+            "logo": ""
+        },
+        {
+            "rank": "28",
+            "team": "Chrysalis",
+            "country": "Japan",
+            "last_played": "29d ago",
+            "last_played_team": "vs. FAV gaming",
+            "last_played_team_logo": "//owcdn.net/img/623be8f0125f2.png",
+            "record": "1–7",
+            "earnings": "$0",
+            "logo": ""
+        },
+        {
+            "rank": "29",
+            "team": "ASNA",
+            "country": "Japan",
+            "last_played": "33d ago",
+            "last_played_team": "vs. PARON",
+            "last_played_team_logo": "/img/vlr/tmp/vlr.png",
+            "record": "0–6",
+            "earnings": "$0",
+            "logo": "//owcdn.net/img/6720c394034ea.png"
+        }
+    ]
+}
