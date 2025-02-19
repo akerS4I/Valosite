@@ -17,8 +17,13 @@
   font-weight: normal;
 }
 
+@font-face {
+  font-family: "Geist";
+  src: url(/fonts/Geist-Regular.woff2);
+}
+
 :root {
-  font-family: Non-Buraeu;
+  font-family: Geist;
 
   color-scheme: light dark;
   color: hsl(0 0% 98%);
