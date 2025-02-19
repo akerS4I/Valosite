@@ -18,7 +18,7 @@ const TeamPage: React.FC = () => {
       <Navbar />
       <div className="team-page">
         <div className="team-header">
-          <img src={`/teams/${team.name.toLowerCase().replace(/\s+/g, "")}.png`} alt={team.name} className="team-logo" />
+          <img src={`/Valosite/teams/${team.name.toLowerCase().replace(/\s+/g, "")}.png`} alt={team.name} className="team-logo" />
           <div className="team-info">
             <h1>{team.name}</h1>
             <p><strong>Region:</strong> {team.region}</p>

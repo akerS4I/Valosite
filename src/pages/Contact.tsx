@@ -39,15 +39,15 @@ const Contact = () => {
         <div className="social-links">
           <p>Or reach me on:</p>
           <div className="social-item">
-            <img src="/assets/discord.svg" alt="Discord" className="social-logo" />
+            <img src="/Valosite/assets/discord.svg" alt="Discord" className="social-logo" />
             <span>YourDiscordUsername</span>
           </div>
           <div className="social-item">
-            <img src="/assets/instagram.svg" alt="Instagram" className="social-logo" />
+            <img src="/Valosite/assets/instagram.svg" alt="Instagram" className="social-logo" />
             <span>YourInstagramUsername</span>
           </div>
           <div className="social-item">
-            <img src="/assets/telegram.svg" alt="Telegram" className="social-logo" />
+            <img src="/Valosite/assets/telegram.svg" alt="Telegram" className="social-logo" />
             <span>YourTelegramUsername</span>
           </div>
         </div>

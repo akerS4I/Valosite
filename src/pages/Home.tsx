@@ -13,11 +13,11 @@ function Home() {
           <div className="region_container">
             <h1>Americas</h1>
             <div className="logo_container">
-              <Link to="/Valosite/teams/G2"className="team_wrapper">
+              <Link to="teams/G2"className="team_wrapper">
                 <img src="/Valosite/teams/g2.png" alt="G2" />
                 <h2>G2</h2>
               </Link>
-              <Link to="/Valosite/teams/SEN"className="team_wrapper">
+              <Link to="teams/SEN"className="team_wrapper">
                 <img src="/Valosite/teams/sen.png" alt="SENTINELS" />
                 <h2>Sentinels</h2>
               </Link>
@@ -26,11 +26,11 @@ function Home() {
           <div className="region_container">
             <h1>China</h1>
             <div className="logo_container">
-              <Link to="/Valosite/teams/EDG"className="team_wrapper">
+              <Link to="teams/EDG"className="team_wrapper">
                 <img src="/Valosite/teams/edg.png" alt="EDG" />
                 <h2>EDG</h2>
               </Link>
-              <Link to="/Valosite/teams/TE"className="team_wrapper">
+              <Link to="teams/TE"className="team_wrapper">
                 <img src="/Valosite/teams/te.png" alt="Trace Esports" />
                 <h2>Trace Esports</h2>
               </Link>
@@ -41,7 +41,7 @@ function Home() {
           <div className="region_container">
             <h1>EMEA</h1>
             <div className="logo_container">
-              <Link to="/Valosite/teams/VIT"className="team_wrapper">
+              <Link to="teams/VIT"className="team_wrapper">
                 <img src="/Valosite/teams/vit.png" alt="Vitality" />
                 <h2>Team Vitality</h2>
               </Link>
@@ -54,11 +54,11 @@ function Home() {
           <div className="region_container">
             <h1>Pacific</h1>
             <div className="logo_container">
-              <Link to="/teams/DRX"className="team_wrapper">
+              <Link to="teams/DRX"className="team_wrapper">
                 <img src="/Valosite/teams/drx.png" alt="DRX" /><h1></h1>
                 <h2>DRX</h2>
               </Link>
-              <Link to="/teams/T1"className="team_wrapper">
+              <Link to="teams/T1"className="team_wrapper">
                 <img src="/Valosite/teams/t1.png" alt="T1" />
                 <h2>T1</h2>
               </Link>

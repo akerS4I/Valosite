@@ -69,28 +69,29 @@ export const teamsData = [
                 nickname: "Zellsis",
                 name: "Jordan Montemurro",
                 agents: [
-                    "breach",
-                    "skye"
+                    "vyse",
+                    "viper",
+                    "kayo"
                 ],
                 IGL: false,
-                role: "Initiator"
+                role: "Flex"
             },
             {
                 nickname: "johnqt",
                 name: "John Qiu",
                 agents: [
-                    "cypher",
-                    "killjoy"
+                    "tejo",
+                    "sova"
                 ],
                 IGL: true,
-                role: "Sentinel"
+                role: "Initiator"
             },
             {
                 nickname: "bang",
                 name: "Sean Bezerra",
                 agents: [
                     "astra",
-                    "viper"
+                    "omen"
                 ],
                 IGL: false,
                 role: "Controller"
@@ -99,8 +100,8 @@ export const teamsData = [
                 nickname: "zekken",
                 name: "Zachary Patrone",
                 agents: [
-                    "jett",
-                    "raze"
+                    "yoru",
+                    "jett"
                 ],
                 IGL: false,
                 role: "Duelist"
@@ -109,11 +110,12 @@ export const teamsData = [
                 nickname: "N4RRATE",
                 name: "Nathaniel Rate",
                 agents: [
-                    "sova",
-                    "fade"
+                    "fade",
+                    "breach",
+                    "omen"
                 ],
                 IGL: false,
-                role: "Initiator"
+                role: "Flex"
             }
         ]
     },
@@ -130,7 +132,7 @@ export const teamsData = [
                     "sova",
                     "fade"
                 ],
-                IGL: false,
+                IGL: true,
                 role: "Initiator"
             },
             {
@@ -147,8 +149,9 @@ export const teamsData = [
                 nickname: "Smoggy",
                 name: "Zhou Bo",
                 agents: [
-                    "viper",
-                    "astra"
+                    "brimstone",
+                    "omen",
+                    "clove"
                 ],
                 IGL: false,
                 role: "Controller"
@@ -157,21 +160,23 @@ export const teamsData = [
                 nickname: "S1Mon",
                 name: "Li Siqi",
                 agents: [
-                    "cypher",
-                    "killjoy"
+                    "breach",
+                    "kayo",
+                    "tejo"
                 ],
                 IGL: false,
-                role: "Sentinel"
+                role: "Initiator"
             },
             {
                 nickname: "CHICHOO",
                 name: "Zhang Zhichao",
                 agents: [
-                    "breach",
-                    "skye"
+                    "cypher",
+                    "omen",
+                    "vyse"
                 ],
-                IGL: true,
-                role: "Initiator"
+                IGL: false,
+                role: "Flex"
             }
         ]
     },
@@ -185,51 +190,55 @@ export const teamsData = [
                 nickname: "Biank",
                 name: "Liu Biankang",
                 agents: [
-                    "jett",
-                    "phoenix"
+                    "fade",
+                    "sova"
                 ],
                 IGL: false,
-                role: "Duelist"
+                role: "Initiator"
             },
             {
                 nickname: "LuoK1ng",
                 name: "Luo Siyuan",
                 agents: [
-                    "sova",
-                    "fade"
+                    "omen",
+                    "brimstone",
+                    "astra"
                 ],
                 IGL: true,
-                role: "Initiator"
+                role: "Controller"
             },
             {
                 nickname: "heybay",
                 name: "He Baoyi",
                 agents: [
-                    "astra",
-                    "brimstone"
+                    "viper",
+                    "deadlock",
+                    "kayo"
                 ],
                 IGL: false,
-                role: "Controller"
+                role: "Flex"
             },
             {
                 nickname: "FengF",
                 name: "Feng Fang",
                 agents: [
+                    "raze",
                     "cypher",
                     "killjoy"
                 ],
                 IGL: false,
-                role: "Sentinel"
+                role: "Flex"
             },
             {
                 nickname: "Kai",
                 name: "Kai Wen",
                 agents: [
-                    "yoru",
-                    "raze"
+                    "vyse",
+                    "neon",
+                    "jett"
                 ],
                 IGL: false,
-                role: "Duelist"
+                role: "Flex"
             }
         ]
     },
@@ -243,17 +252,19 @@ export const teamsData = [
                 nickname: "Sayf",
                 name: "Saif Jibraeel",
                 agents: [
-                    "jett",
-                    "raze"
+                    "tejo",
+                    "iso",
+                    "omen"
                 ],
-                IGL: false,
-                role: "Duelist"
+                IGL: true,
+                role: "Flex"
             },
             {
                 nickname: "trexx",
                 name: "Dmitry Alimzhanov",
                 agents: [
                     "sova",
+                    "brimstone",
                     "fade"
                 ],
                 IGL: false,
@@ -263,18 +274,20 @@ export const teamsData = [
                 nickname: "Derke",
                 name: "Nikita Sirmitev",
                 agents: [
-                    "chamber",
-                    "killjoy"
+                    "raze",
+                    "yoru",
+                    "jett"
                 ],
                 IGL: false,
-                role: "Sentinel"
+                role: "Duelist"
             },
             {
                 nickname: "Less",
                 name: "Felipe Basso",
                 agents: [
-                    "astra",
-                    "viper"
+                    "viper",
+                    "cypher",
+                    "astra"
                 ],
                 IGL: false,
                 role: "Controller"
@@ -284,9 +297,10 @@ export const teamsData = [
                 name: "Karel Ašenbrener",
                 agents: [
                     "breach",
+                    "omen",
                     "skye"
                 ],
-                IGL: true,
+                IGL: false,
                 role: "Initiator"
             }
         ]
@@ -301,28 +315,31 @@ export const teamsData = [
                 nickname: "paTiTek",
                 name: "Patryk Fabrowski",
                 agents: [
-                    "jett",
-                    "raze"
+                    "breach",
+                    "kayo",
+                    "skye"
                 ],
                 IGL: false,
-                role: "Duelist"
+                role: "Initator"
             },
             {
                 nickname: "kamyk",
-                name: "Domagoj Fancev",
+                name: "Maks Rychlewski",
                 agents: [
+                    "tejo",
                     "sova",
-                    "fade"
+                    "gekko"
                 ],
                 IGL: false,
-                role: "Initiator"
+                role: "Flex"
             },
             {
                 nickname: "Keiko",
-                name: "Tomasz Bogdanowicz",
+                name: "Georgio Sanassy",
                 agents: [
-                    "astra",
-                    "viper"
+                    "brimstone",
+                    "omen",
+                    "astra"
                 ],
                 IGL: false,
                 role: "Controller"
@@ -342,7 +359,8 @@ export const teamsData = [
                 name: "Ayaz Akhmetshin",
                 agents: [
                     "cypher",
-                    "killjoy"
+                    "viper",
+                    "vyse"
                 ],
                 IGL: true,
                 role: "Sentinel"
@@ -356,39 +374,39 @@ export const teamsData = [
         kickoff_placement: 1,
         players: [
             {
-                nickname: "stax",
-                name: "Kim Gu-taek",
-                agents: ["breach", "skye"],
-                IGL: true,
-                role: "Initiator"
-            },
-            {
-                nickname: "Meteor",
-                name: "Kim Tae-oh",
-                agents: ["jett", "raze"],
+                nickname: "MaKo",
+                name: "Kim Myeong-gwan",
+                agents: ["brimstone", "omen", "astra"],
                 IGL: false,
-                role: "Duelist"
+                role: "smokes"
             },
             {
-                nickname: "Sylvan",
-                name: "Go Young-sup",
-                agents: ["sova", "fade"],
-                IGL: false,
-                role: "Initiator"
-            },
-            {
-                nickname: "BuZz",
-                name: "Yu Byeong-cheol",
-                agents: ["killjoy", "cypher"],
+                nickname: "Flashback",
+                name: "Cho Min-hyuk",
+                agents: ["viper", "cypher", "vyse"],
                 IGL: false,
                 role: "Sentinel"
             },
             {
-                nickname: "iZu",
-                name: "Ham Woo-ju",
-                agents: ["astra", "viper"],
+                nickname: "free1ng",
+                name: "No Ha-jun",
+                agents: ["tejo"],
                 IGL: false,
-                role: "Controller"
+                role: "Best Tejo in the world"
+            },
+            {
+                nickname: "HYUNMIN",
+                name: "Song Hyun-min",
+                agents: ["raze", "jett"],
+                IGL: false,
+                role: "Duelist"
+            },
+            {
+                nickname: "BeYN",
+                name: "Kang Ha-bin",
+                agents: ["breach", "sova", "fade"],
+                IGL: false,
+                role: "Initiator"
             }
         ]
     }, {
@@ -397,39 +415,39 @@ export const teamsData = [
         kickoff_placement: 2,
         players: [
             {
-                nickname: "Sayaplayer",
-                name: "Ha Jeong-woo",
-                agents: ["jett", "chamber"],
-                IGL: false,
-                role: "Duelist"
-            },
-            {
-                nickname: "xeta",
-                name: "Son Seon-ho",
-                agents: ["sova", "breach"],
+                nickname: "stax",
+                name: "Kim Gu-taek",
+                agents: ["sova", "breach", "kayo"],
                 IGL: true,
                 role: "Initiator"
             },
             {
-                nickname: "Carpe",
-                name: "Lee Jae-hyeok",
-                agents: ["phoenix", "raze"],
-                IGL: false,
-                role: "Duelist"
-            },
-            {
-                nickname: "Munchkin",
-                name: "Byeon Sang-beom",
-                agents: ["killjoy", "cypher"],
+                nickname: "Meteor",
+                name: "Kim Tae-oh",
+                agents: ["iso", "vyse", "killjoy"],
                 IGL: false,
                 role: "Sentinel"
             },
             {
-                nickname: "iZu",
-                name: "Ham Woo-ju",
-                agents: ["astra", "brimstone"],
+                nickname: "Sylvan",
+                name: "Go Young-sup",
+                agents: ["brimstone", "omen", "astra"],
                 IGL: false,
                 role: "Controller"
+            },
+            {
+                nickname: "BuZz",
+                name: "Yu Byeong-cheol",
+                agents: ["raze", "neon", "yoru"],
+                IGL: false,
+                role: "Duelist"
+            },
+            {
+                nickname: "iZu",
+                name: "Ham Woo-ju",
+                agents: ["cypher", "gekko", "viper"],
+                IGL: false,
+                role: "flex"
             }]
     }
 
