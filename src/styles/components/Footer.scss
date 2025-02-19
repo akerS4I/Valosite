@@ -2,7 +2,7 @@ footer {
   width: 100%;
   padding: 30px;
 
-  border-top: 1px solid #444444;
+  border-top: 1px solid hsl(240 3.7% 15.9%);
 
   display: flex;
   flex-direction: column;
@@ -17,14 +17,9 @@ footer {
     gap: 30px;
 
     p {
-      border: #444444 1px solid;
+      border-bottom: hsl(240, 3%, 29%) 1px solid;
       padding: 3px 10px;
       border-radius: 4px;
-
-      &:hover{
-        background-color: #444444;
-        cursor: default;
-      }
     }
   }
 }

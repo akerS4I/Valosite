@@ -2,6 +2,9 @@
   padding: 0;
   margin: 0;
   box-sizing: border-box;
+  scrollbar-width: thin;
+  scrollbar-color: hsl(240 3.7% 15.9%) transparent;
+  border-color: hsl(240 3.7% 15.9%);
 }
 
 @font-face {
