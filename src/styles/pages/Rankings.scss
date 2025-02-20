@@ -13,6 +13,7 @@
 .region-links {
   display: flex;
   justify-content: center;
+  flex-wrap: wrap;
   gap: 15px;
   margin-bottom: 20px;
 
@@ -103,4 +104,13 @@
   margin: 5px 0;
   border: 2px solid white;
   background-color: rgba(255, 255, 255, 0.125);
+}
+
+@media (max-width: 450px) {
+    .team-info{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column
+    }
 }

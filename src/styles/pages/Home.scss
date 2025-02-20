@@ -56,3 +56,27 @@
     }
   }
 }
+
+@media (max-width: 1000px) {
+    .teams_container{
+        .region_container{
+            width: 90%;
+            font-size: 13px;
+            .logo_container{
+                img{
+                    width: 90%;
+                }
+            }
+        }
+    }
+    .page-title{
+      font-size: 15px;
+    }
+
+    .grid_container{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+    }
+}
