@@ -12,9 +12,13 @@ Has no goal in earning money or any commercial use.
 
 ## Demo
 
-Website is live at github pages server
+Website is live at
 
+- Github Pages
 **<https://akers4i.github.io/Valosite/>**
+
+- Vercel
+**<https://valosite.vercel.app/>**
 
 ## Tech Stack
 
