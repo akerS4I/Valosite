@@ -8,7 +8,7 @@ import News from "./pages/News.tsx";
 import TeamPage from "./pages/TeamPage.tsx";
 
 createRoot(document.getElementById("root")!).render(
-  <BrowserRouter basename="/Valosite">
+  <BrowserRouter basename="/">
     <Routes>
       <Route path="/" element={<Home />} />
       <Route path="/teams/:teamName" element={<TeamPage />} />
